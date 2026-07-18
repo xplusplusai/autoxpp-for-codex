@@ -54,7 +54,7 @@ After saving `config.toml`, tell the user:
 
 ## Notes
 
-- Free skills (azure-devops, sql-jit, ude-switch) work without an API key or MCP connection.
+- Free skills (browser-v2, azure-devops, sql-jit, ude-switch) work without an API key or MCP connection.
 - The plugin handles skill distribution. This skill handles MCP server configuration only.
 - `config.toml` is global (per Codex home), not per-project. There is no per-workspace `.mcp.json` in Codex — one entry serves every repo.
 - `config.toml` contains your API key if you use the inline `http_headers` form — keep the file readable only by your user account, or use the `bearer_token_env_var` form instead.
