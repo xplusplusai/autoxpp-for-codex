@@ -1,0 +1,21 @@
+{
+  "name": "xplusplus-ai",
+  "interface": {
+    "displayName": "XPLUSPLUS.AI"
+  },
+  "plugins": [
+    {
+      "name": "autoxpp",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "description": "Autonomous D365 F&O development engine — X++ coding, building, testing, browser automation",
+      "category": "development",
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_FIRST_USE"
+      }
+    }
+  ]
+}

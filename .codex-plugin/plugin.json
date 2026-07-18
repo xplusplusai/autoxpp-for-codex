@@ -1,0 +1,27 @@
+{
+  "name": "autoxpp",
+  "version": "1.5.10",
+  "description": "Autonomous D365 F&O development engine — X++ coding, building, testing, browser automation",
+  "author": {
+    "name": "XPLUSPLUS.AI",
+    "url": "https://xplusplus.ai"
+  },
+  "homepage": "https://xplusplus.ai",
+  "repository": "https://github.com/xplusplusai/autoxpp-for-codex",
+  "license": "proprietary",
+  "keywords": ["D365", "Dynamics 365", "Finance Operations", "F&O", "X++", "ERP"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "AutoXPP",
+    "shortDescription": "Autonomous D365 Finance & Operations development engine for X++",
+    "longDescription": "AI-powered D365 F&O development: X++ coding, VS 2022 build & deploy, test authoring and execution, and browser automation. Requires an AutoXPP Pro API key for premium skills.",
+    "developerName": "XPLUSPLUS.AI",
+    "category": "development",
+    "websiteURL": "https://xplusplus.ai/autoxpp.html",
+    "defaultPrompt": [
+      "Set up my AutoXPP API key",
+      "Initialize an AutoXPP session"
+    ],
+    "brandColor": "#10A37F"
+  }
+}
