@@ -22,6 +22,8 @@
       "Set up my AutoXPP API key",
       "Initialize an AutoXPP session"
     ],
-    "brandColor": "#10A37F"
+    "brandColor": "#10A37F",
+    "logo": "./assets/icon.png",
+    "composerIcon": "./assets/icon.png"
   }
 }
